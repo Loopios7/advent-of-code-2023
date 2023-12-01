@@ -21,4 +21,7 @@
  *     import _ fro 'lodash
  *     import myLib from '../utils/myLib'
  *     import { myUtil } from '../utils'
+ *
+ * To learn more about modules:
+ * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
  */

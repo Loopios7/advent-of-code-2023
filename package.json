@@ -12,13 +12,16 @@
     "aoc"
   ],
   "author": "Loopios7",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
-    "@types/node": "^16.11.6",
+    "@types/node": "^20.10.1",
     "aocrunner": "^1.9.6",
-    "prettier": "^2.8.0"
+    "prettier": "^2.8.8"
   },
-  "dependencies": {},
+  "dependencies": {
+    "array-move": "^4.0.0",
+    "lodash": "^4.17.21"
+  },
   "engines": {
     "node": ">=16.13.0"
   }
