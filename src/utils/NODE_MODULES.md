@@ -13,3 +13,11 @@ A modern JavaScript utility library delivering modularity, performance & extras.
 ```js
 import { cloneDeep } from "lodash";
 ```
+
+# mathjs
+
+An extensive math library for JavaScript and Node.js
+
+```js
+import { lcm } from "mathjs";
+```
