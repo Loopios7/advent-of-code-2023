@@ -1,5 +1,5 @@
 export function extractNumberArray(str) {
-  const re = /\d+/g;
+  const re = /-?\d+/gm;
   let match;
   const numbers = [];
 
